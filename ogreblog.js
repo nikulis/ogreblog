@@ -1,6 +1,22 @@
+/*******************************************************************************
+Ogreblog, an XKit extension for selectively removing nested post comments.
+
+    Copyright (C) 2015 Nick Freeman <nikulis.github.io>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+*******************************************************************************/
+
 //* TITLE Ogreblog **//
 //* VERSION 0.1 REV A **//
-//* DESCRIPTION Like an ogre, tumblr comments have layers - and you might not want to reblog all of them. Take control the layers with Ogreblog. **//
+//* DESCRIPTION Like an ogre, tumblr comments have layers - and you might not want to reblog all of them. Take control of the layers with Ogreblog. **//
 //* DETAILS ** Currently in beta - use at your own risk ** <br/><br/> This extension currently only supports tumblr's built-in TinyMCE WYSIWYG post editor. To make sure this is enabled, go to your dashboard settings and choose "Rich text editor". **//
 //* DEVELOPER nikulis **//
 //* FRAME false **//
